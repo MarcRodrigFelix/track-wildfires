@@ -17,7 +17,6 @@ function App() {
       setLoading(false)
     }
     fetchData()
-console.log(eventData)
   }, [])
 
   return (
